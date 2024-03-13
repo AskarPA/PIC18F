@@ -1,5 +1,5 @@
 /*
- * File:   5blink.c
+ * File:   pullDownMultiSwitch.c
  * Author: askar
  *
  * Created on 21 November, 2023, 2:01 PM
